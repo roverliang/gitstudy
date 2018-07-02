@@ -1,10 +1,2 @@
 <?php
 hello
-world
-kjk
-lj
-jljljl
-jkjkl
-jljl
-
-woshi yige zhongguoren
